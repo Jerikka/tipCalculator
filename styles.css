@@ -4,3 +4,34 @@ body {
     font-family: serif;
     background: #f7f7f7;
 }
+
+.container {
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 2.0);
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+    max-width: 600px;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    padding: 5px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    font-size: 15px;
+}
+
+label {
+    font-size: 15px;
+    margin-bottom: 5px; 
+}
