@@ -56,3 +56,12 @@ button:hover {
     background: #2BAC18;
     transform: translateY(-1px);
 }
+
+.total {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+span {
+    font-size: 19px;
+}
